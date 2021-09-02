@@ -1,0 +1,39 @@
+html {
+	position: relative;
+}
+body {
+	margin-bottom: 120px;
+}
+.jumbotron img {
+	width: 200px;
+	border: 5px solid grey;
+}
+hr {
+	width: 250px;
+	border-top: 3px solid grey;
+}
+section {
+	min-height: 600px;
+}
+.portfolio {
+	background-color: grey;
+
+}
+.contact {
+	min-height: 800px;
+}
+footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 100px;
+	background-color: grey;
+	padding-top: 30px;
+}
+footer p {
+	color: blue;
+	font-size: 0.9; 
+}
+a {
+	color: blue;
+}
